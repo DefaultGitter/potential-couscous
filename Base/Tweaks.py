@@ -1,3 +1,12 @@
+# e.t.c.
+"""
+# del method can delete a particular element
+del list_name
+del list[index]
+del dict[key]
+
+"""
+
 # output
 """
 print(1, 2, 3, sep=' | ')       # separation
@@ -11,8 +20,39 @@ print(f"{' 3 ':%>10}")          # Format right
 
 # collections
 """
+# list
 list_1 = [i for i in range(10)]
 list_2 = (i for i in range(10))  # list comprehension
+
+list_1.extend('asd')        # unpack collection ('a','s','d') into list_1
+
+list_1.pop(index)
+list_1.remove(value)
+
+list_1.index(value, start_index, end_index)     # start/end optional
+
+# dict
+dict_1 = {1: 'Value1', 2: 'Value2', 3: 'Value3'}
+
+for i in dict_1.values():
+    print(i)
+
+for x in dict_1.keys():
+    print(x)
+
+for x, y in dict_1.items():
+    print(x, y)
+
+print(dict_1.get(1))                  # return Value1
+print(dict_1.get(20, "Oh shit"))      # return 'Oh shit', because dict has no key 20
+
+print(dict_1.pop(0, 'Have not this key'))                 # return message
+print(dict_1.pop(1, 'Element by key 1 was removed'))      # return Value1
+
+dict_1.clear()
+
+dict_2 = {4: 'Value4', 5: 'Value5'}
+dict_1.update(dict_2)           # unpack dict_2 into dict_1
 """
 
 # definition
@@ -31,6 +71,23 @@ def def3(v1, v2, /, v3, v4):    # queue control before /
     return
 
 def3(0, 1, 2, v4=4, v3=3)
+"""
+
+# decorator
+"""
+def decor(fn):
+    def out(var1, var2):
+        # some code
+        return fn(var1, var2)
+        
+    return out
+
+
+@decor
+def func_under_decor(var1, var2):
+    # some code
+    return var1, var2
+
 """
 
 # *args, **kwargs

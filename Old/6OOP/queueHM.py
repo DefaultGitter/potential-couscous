@@ -1,5 +1,3 @@
-
-
 # 0 - BigBoss, 1 - OfficeWorker, 2 - RandomUser
 from datetime import datetime
 
@@ -62,6 +60,7 @@ print(f'Users with access:')
 for i in access_list:
     print(i, end=' ')
 print(f'\nFor end the program type EXIT to user code')
+
 while True:
     pr = input(f'Enter a user code: ')
     if pr.lower() == 'exit':

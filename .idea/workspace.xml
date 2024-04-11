@@ -4,11 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a92cab0a-ec3a-459c-936c-cbc3d1b6afeb" name="Changes" comment="2 hour">
+    <list default="true" id="a92cab0a-ec3a-459c-936c-cbc3d1b6afeb" name="Changes" comment="29.03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base/OutputTwiks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Tweaks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base/collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/exper_lab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/definition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/Tweaks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Tweaks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/DefModExcet/HMpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure/package/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/DefModExcet/HMpack/constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure/package/constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/DefModExcet/HMpack/divZERO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure/package/divZERO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/DefModExcet/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/HM3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/HM6old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/HMSET.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/hm6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/ooP/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/0PycharmProjects/ooP/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/ooP/queueHM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/0PycharmProjects/ooP/queueHM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/Decor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/Experemental.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/HM6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/HMDEF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/HMDEFMODULE.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/HMDEFMODULE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/HMDICT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/HMSET.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject/setmet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/setmet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/math_operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/math_operations/division.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/math_operations/multiplication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/math_operations/recollect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/math_operations/subtraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/2DefModule/math_operations/summarize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/math_operations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/math_operations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/math_operations/division.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/math_operations/division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/math_operations/multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/math_operations/multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/math_operations/rewriter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/math_operations/rewriter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/math_operations/subtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/math_operations/subtraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/3pythonProject/math_operations/summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Package_structure_extended/math_operations/summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/4AfterTheDef/Exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/4AfterTheDef/MainBody.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/4AfterTheDef/Rec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/4AfterTheDef/decorator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/4AfterTheDef/exper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/6OOP/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/6OOP/dataSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/6OOP/data_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/6OOP/exp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/6OOP/inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Old/6OOP/queueHM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/6OOP/queueHM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +73,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DefaultGitter"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DefaultGitter/potential-couscous.git",
+    "accountId": "c6bb188f-8b5a-4d18-a4f5-9231a8609c73"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,11 +98,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Decor.executor": "Run",
+    "Python.Exceptions.executor": "Run",
+    "Python.Experemental.executor": "Run",
+    "Python.HMDEF.executor": "Run",
+    "Python.HMDEFMODULE.executor": "Run",
+    "Python.HMSET.executor": "Run",
     "Python.List.executor": "Run",
     "Python.OutputTwiks.executor": "Run",
+    "Python.Rec.executor": "Run",
     "Python.Tweaks.executor": "Run",
     "Python.collection.executor": "Run",
+    "Python.decorator.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.divZERO.executor": "Run",
+    "Python.exper.executor": "Run",
     "Python.exper_lab.executor": "Run",
+    "Python.hmCLASS.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.oop.executor": "Run",
+    "Python.queueHM.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -57,10 +131,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyW\GitProject\potential-couscous\Base" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -75,7 +155,11 @@
       <workItem from="1710947168641" duration="2727000" />
       <workItem from="1711022128259" duration="2640000" />
       <workItem from="1711709246930" duration="71000" />
-      <workItem from="1711709382863" duration="812000" />
+      <workItem from="1711709382863" duration="878000" />
+      <workItem from="1712135409560" duration="20000" />
+      <workItem from="1712135437952" duration="2677000" />
+      <workItem from="1712834047652" duration="191000" />
+      <workItem from="1712834339410" duration="3767000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation">
       <option name="closed" value="true" />
@@ -93,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711024735244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="29.03">
+      <option name="closed" value="true" />
+      <created>1711730190230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711730190231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,14 +198,30 @@
     </ignored-roots>
     <MESSAGE value="Initialisation" />
     <MESSAGE value="2 hour" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 hour" />
+    <MESSAGE value="29.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.03" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/potential_couscous$exper_lab.coverage" NAME="exper_lab Coverage Results" MODIFIED="1711729846218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/potential_couscous$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1712836398258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/4AfterTheDef" />
     <SUITE FILE_PATH="coverage/potential_couscous$collection.coverage" NAME="collection Coverage Results" MODIFIED="1711024427748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
-    <SUITE FILE_PATH="coverage/ManualPy3$OutputTwiks.coverage" NAME="OutputTwiks Coverage Results" MODIFIED="1710949106045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/potential_couscous$Rec.coverage" NAME="Rec Coverage Results" MODIFIED="1712836800801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/4AfterTheDef" />
+    <SUITE FILE_PATH="coverage/potential_couscous$Decor.coverage" NAME="Decor Coverage Results" MODIFIED="1712834523075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject" />
+    <SUITE FILE_PATH="coverage/potential_couscous$hmCLASS.coverage" NAME="hmCLASS Coverage Results" MODIFIED="1712837656774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/6OOP" />
+    <SUITE FILE_PATH="coverage/potential_couscous$oop.coverage" NAME="oop Coverage Results" MODIFIED="1712837739679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/6OOP" />
+    <SUITE FILE_PATH="coverage/potential_couscous$HMDEF.coverage" NAME="HMDEF Coverage Results" MODIFIED="1712137265696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject" />
     <SUITE FILE_PATH="coverage/ManualPy3$collection.coverage" NAME="collection Coverage Results" MODIFIED="1710949884293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
-    <SUITE FILE_PATH="coverage/potential_couscous$Tweaks.coverage" NAME="Tweaks Coverage Results" MODIFIED="1711729478636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/ManualPy3$OutputTwiks.coverage" NAME="OutputTwiks Coverage Results" MODIFIED="1710949106045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/potential_couscous$exper_lab.coverage" NAME="exper_lab Coverage Results" MODIFIED="1712137081241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
     <SUITE FILE_PATH="coverage/ManualPy3$List.coverage" NAME="List Coverage Results" MODIFIED="1710949300692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/potential_couscous$HMSET.coverage" NAME="HMSET Coverage Results" MODIFIED="1712834115399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject" />
+    <SUITE FILE_PATH="coverage/potential_couscous$exper.coverage" NAME="exper Coverage Results" MODIFIED="1712836556048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/4AfterTheDef" />
+    <SUITE FILE_PATH="coverage/potential_couscous$Tweaks.coverage" NAME="Tweaks Coverage Results" MODIFIED="1711729478636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/potential_couscous$main.coverage" NAME="main Coverage Results" MODIFIED="1712835994248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base/Package_structure_extended" />
+    <SUITE FILE_PATH="coverage/potential_couscous$divZERO.coverage" NAME="divZERO Coverage Results" MODIFIED="1712835341333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects/DefModExcet/HMpack" />
+    <SUITE FILE_PATH="coverage/potential_couscous$Exceptions.coverage" NAME="Exceptions Coverage Results" MODIFIED="1712836844913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/4AfterTheDef" />
+    <SUITE FILE_PATH="coverage/potential_couscous$queueHM.coverage" NAME="queueHM Coverage Results" MODIFIED="1712838003887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/6OOP" />
+    <SUITE FILE_PATH="coverage/potential_couscous$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1712136368374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects" />
+    <SUITE FILE_PATH="coverage/potential_couscous$HMDEFMODULE.coverage" NAME="HMDEFMODULE Coverage Results" MODIFIED="1712137511011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject" />
+    <SUITE FILE_PATH="coverage/potential_couscous$Experemental.coverage" NAME="Experemental Coverage Results" MODIFIED="1712137165681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Old/0PycharmProjects/pythonProject" />
   </component>
 </project>
